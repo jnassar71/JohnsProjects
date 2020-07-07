@@ -1,3 +1,3 @@
 from django.contrib import admin
 
-# Register your MODELS
+# Register your MODELS (TESTING PUSH FROM COMMAND LINE)
